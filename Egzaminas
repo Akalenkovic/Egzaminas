@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <nav>
+        <ul class="navbar">
+            <li class="right-navbar"><img class="logo" src="./assets/logo.svg" alt="logo">
+            <li><a href="#">Features</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Launch</a></li>
+            <li><button class="my-btn">Sign up</button></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <div class="intro-text">
+          <h1>
+            <span class="hear"> LAUNCHING SOON </span> <br />
+            <span class="connecting"> An NFT like no other </span>
+          </h1>
+          <p>
+            Don't miss out on the release of our new NFT. Sign up below to receive updates when we go live.
+          </p>
+          <li><button class="btn">Sign up</button></li>
+        </div>
+        <div class="hero-image">
+            <div class="hero-text">
+            <img src="./assets/graphic.svg">
+            </div>
+          </div>
+      </section>
+
+  
+  <div style="background-image: url('./assets/background.svg'); 
+  background-size: cover; height:180px; padding-top:80px;">
+    <h1>
+        <span class="info"> Free NFT for early birds </span> <br />
+        <span class="additional"> Sign up today and you'll get free NFT when we launch </span>
+      </h1>
+  </div>  
+
+  <ul class="press">
+    <li class="right-press"><img class="logo"
+            src="./assets/1.svg"
+            alt=""></li>
+    <li class="right-press"><img class="logo"
+            src="./assets/2.svg"
+            alt=""></li>
+    <li class="right-press"><img class="logo"
+        src="./assets/3.svg"
+        alt=""></li>
+    <li class="right-press"><img class="logo"
+            src="./assets/4.svg"
+            alt=""></li>   
+    <li class="right-press"><img class="logo"
+            src="./assets/5.svg"
+            alt=""></li>  
+</ul>
+
+<h1>
+    <span class="auction"> LE Super Rare Auction</span> <br />
+    <span class="bid"> We have released four limited NFTs early witch can be bid on via  </span>
+  </h1>
+
+
+  <div class="my-container">
+    <div class="my-img">
+        <img src="./assets/ntf-1.svg"
+            alt="code">
+        <h4>GLOOP SERIES</h4>
+        <h5>Purple man 2.99 ETHS</h5>
+        <h6>#12983 1 day left</h6>
+    </div>
+    <div class="my-img">
+        <img src="./assets/nft-2.svg"
+            alt="code">
+            <h4>GLOOP SERIES</h4>
+            <h5>Beige 2.99 ETHS</h5>
+            <h6>#12983 1 day left</h6>
+    </div>
+    <div class="my-img">
+        <img src="./assets/ntf-3.svg"
+            alt="code">
+            <h4>GLOOP SERIES</h4>
+            <h5>Red man 2.99 ETHS</h5>
+            <h6>#12983 1 day left</h6>
+    </div>
+    <div class="my-img">
+        <img src="./assets/ntf-4.svg"
+            alt="code">
+            <h4>GLOOP SERIES</h4>
+            <h5>Green 2.99 ETHS</h5>
+            <h6>#12983 1 day left</h6>
+    </div>
+  </div>
+
+
+
+
+</div>
+
+  <section class="hero1">
+    <div class="intro-text">
+      <h1>
+        <span class="hear"> Launching soon </span> <br />
+        <span class="connecting"> An NFT like no other </span>
+      </h1>
+      <p>
+        Don't miss out on the release of our new NFT. Sign up below to receive updates when we go live.
+      </p>
+      <li><button class="btn">Sign up</button></li>
+    </div>
+    <div class="hero-image">
+        <div class="hero-text">
+        <img src="./assets/upsell-footer-image.svg">
+        </div>
+      </div>
+  </section> 
+
+  
+      
+ 
